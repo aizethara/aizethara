@@ -1,4 +1,4 @@
-JavaScript, Python, web2
+web2, js, python\
 I started programming in 2019 and have been learning and building personal projects ever since.
 
 <!---
