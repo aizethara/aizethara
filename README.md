@@ -1,4 +1,4 @@
-js | python | linux | cybersecurity | cryptography\
+js⠀|⠀python⠀|⠀linux⠀|⠀cybersecurity⠀|⠀cryptography\
 I started programming in 2019 and have been learning and building personal projects ever since.
 
 <!---
